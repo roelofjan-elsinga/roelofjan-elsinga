@@ -9,12 +9,14 @@ I'm currently working on a few projects:
 
 🖥️ I'm blogging about tech / programming on my [personal website](https://roelofjanelsinga.com)
 
-👋 I'm looking for freelance projects, so if you're looking for help with these technologies
+👋 I'm looking for freelance projects, so if you're looking for help with some of these things:
 
 - PHP
 - Laravel
 - Golang
 - Ansible
+- Tailwindcss
+- Jekyll
 - Angular
 - React
 
