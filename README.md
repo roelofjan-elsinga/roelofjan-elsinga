@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome 👋
 
-Welcome to my GitHub page!
+I'm Roelof Jan from Groningen, The Netherlands. I'm a full-stack developer with 5 years of experience building and maintaining websites and platforms. 
 
 I'm currently working on a few projects:
 - ⚡ [Aloia CMS](https://aloiacms.com): A flat-file CMS for Laravel
@@ -9,10 +9,11 @@ I'm currently working on a few projects:
 
 🖥️ I'm blogging about tech / programming on my [personal website](https://roelofjanelsinga.com)
 
-👋 I'm looking for freelance projects, so if you're looking for help with some of these things:
+👋 I'm for hire for freelance projects, so if you're looking for help with some of these:
 
 - PHP
 - Laravel
+- Docker
 - Golang
 - Ansible
 - Tailwindcss
