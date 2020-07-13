@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**roelofjan-elsinga/roelofjan-elsinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page!
 
-Here are some ideas to get you started:
+I'm currently working on a few projects:
+- ⚡ [Aloia CMS](https://aloiacms.com): A flat-file CMS for Laravel
+- 🌱 [Plant care for Beginners](https://plantcareforbeginners.com): A resource to help people care for their plants
+- 🔭 [CRO-tool](https://cro-tool.com): Use psychological theories to improve your CRO experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ I'm blogging about tech / programming on my [personal website](https://roelofjanelsinga.com)
+
+👋 I'm looking for freelance projects, so if you're looking for help with these technologies
+
+- PHP
+- Laravel
+- Golang
+- Ansible
+- Angular
+- React
+
+Contact me and let's work together!
