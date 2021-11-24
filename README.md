@@ -9,16 +9,11 @@ I'm currently working on a few projects:
 
 🖥️ I'm blogging about tech / programming on my [personal website](https://roelofjanelsinga.com)
 
-👋 I'm for hire for freelance projects, so if you're looking for help with some of these:
+👋 You can hire me for freelance projects, so if you're looking for help with:
 
 - PHP
 - Laravel
 - Docker
 - Golang
-- Ansible
-- Tailwindcss
-- Jekyll
-- Angular
-- React
 
 Contact me and let's work together!
