@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I'm Roelof Jan from Groningen, The Netherlands. I'm a full-stack developer with 7 years of experience building and maintaining websites and platforms. 
+I'm Roelof Jan from Groningen, The Netherlands. I'm a backend developer with 7 years of experience building and maintaining websites and platforms. 
 
 I'm currently working on a few projects:
 - ⚡ [Aloia CMS](https://aloiacms.com): A flat-file CMS for Laravel
